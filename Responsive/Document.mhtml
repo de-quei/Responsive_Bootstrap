@@ -1,0 +1,36 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/Responsive/test2.html
+Subject: Document
+Date: Fri, 17 Mar 2023 05:53:37 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--fV6sVztevdCDTz97VQJyC4lz1Q2EFRjgPASl4cJIie----"
+
+
+------MultipartBoundary--fV6sVztevdCDTz97VQJyC4lz1Q2EFRjgPASl4cJIie----
+Content-Type: text/html
+Content-ID: <frame-5D4E244FDE8C72BFEA84645E5A18FAB0@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/Responsive/test2.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit.=20
+        Illo voluptate magni unde.=20
+        Reiciendis asperiores exercitationem corporis esse architecto nihil=
+ fuga vitae voluptas minus ut.=20
+        Magni, voluptatibus.=20
+        Quis similique earum quos?</div>
+<!-- Code injected by live-server -->
+
+
+</body></html>
+------MultipartBoundary--fV6sVztevdCDTz97VQJyC4lz1Q2EFRjgPASl4cJIie------
